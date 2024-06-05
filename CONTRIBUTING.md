@@ -6,7 +6,7 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## Opening a Pull Request
 
-This project is published as a standalone repo from our [opensource monorepo](https://github.com/jetify-com/opensource).
+This project is published as a standalone repo from our [opensource monorepo](https://github.com/khulnasoft-lab/opensource).
 Pull requests should be sent to the monorepo instead, and they will automatically be published
 to this repo when merged.
 

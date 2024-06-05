@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"go.jetify.com/typeid"
+	"github.com/khulnasoft-lab/typeid"
 )
 
 func TestJSON(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"go.jetify.com/typeid"
+	"github.com/khulnasoft-lab/typeid"
 )
 
 func TestScan(t *testing.T) {

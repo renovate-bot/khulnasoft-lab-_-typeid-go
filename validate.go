@@ -3,7 +3,7 @@ package typeid
 import (
 	"fmt"
 
-	"go.jetify.com/typeid/base32"
+	"github.com/khulnasoft-lab/typeid/base32"
 )
 
 func validatePrefix[T Subtype](prefix string) error {

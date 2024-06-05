@@ -1,4 +1,4 @@
-module go.jetify.com/typeid
+module github.com/khulnasoft-lab/typeid
 
 go 1.21
 

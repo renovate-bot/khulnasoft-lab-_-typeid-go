@@ -3,7 +3,7 @@ package typeid_test
 import (
 	"fmt"
 
-	"go.jetify.com/typeid"
+	"github.com/khulnasoft-lab/typeid"
 )
 
 // To create a new id type, first implement a custom PrefixType and ensure the
